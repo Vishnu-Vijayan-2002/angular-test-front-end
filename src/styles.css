@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    font-family: "Merriweather", serif;
+}
+
+body {
+    background: url(https://www.forbes.com/advisor/wp-content/uploads/2022/09/what_is_employee_relations_-_article_image.jpg) no-repeat center fixed;
+    background-size: cover;
+}
